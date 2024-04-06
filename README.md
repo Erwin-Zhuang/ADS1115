@@ -1,2 +1,3 @@
 # ADS1115
-Driver for ADS1115 of TI 
+
+ADS1115的驱动 基于HAL库 已经验证
